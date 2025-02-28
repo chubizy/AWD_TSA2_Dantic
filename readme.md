@@ -4,29 +4,27 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/chubizy/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/Bloogoo_Dantic.png" alt="" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Personal Website</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  This project has 5 pages to showcase my past projects with different designs, highlighting our experience, and coding skills.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
-
-[![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
+![](https://visit-counter.vercel.app/counter.png?page=chubizy/Wd-Finals)
 
 ---
 
-<br />
+<a href="https://wakatime.com/badge/user/018ee58b-357b-4f61-b0ad-d2546ca042bf/project/c0d92dbf-fffa-4641-a7db-b176b13001b8"><img src="https://wakatime.com/badge/user/018ee58b-357b-4f61-b0ad-d2546ca042bf/project/c0d92dbf-fffa-4641-a7db-b176b13001b8.svg" alt="wakatime"></a>
 <br />
 
 <!-- TODO: If you want to add more layers for your readme -->
@@ -59,20 +57,25 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+This final project showcases my previous work, including Seatwork 2, Hands-on 1, Seatwork 3, Hands-on 2, and Seatwork 4. It highlights my experiences in coding HTML, troubleshooting, and using commit messages, as well as my design journey throughout the IT0043 course.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+The website features unique designs, navigations, headers, and content such as resumes, repository links, deployment links to my past projects, images of the languages used, and the total time spent coding each project. Additionally, it incorporates card-like styles and feature styles. The website was built using HTML for structure and CSS for styling and color.
+
+| Title | Deployment link | Repository link |
+|-|-|-|
+| Seatwork 2 | https://chubizy.github.io/WD-HandsOn1/ | https://github.com/chubizy/WD-HandsOn1 |
+| Hands-on 1 | https://chubizy.github.io/WDMidterm/ | https://github.com/chubizy/WDMidterm |
+| Seatwork 3 | https://chubizy.github.io/WD-SeatW3/ | https://github.com/chubizy/WD-SeatW3 |
+| Hands-on 2 | https://chubizy.github.io/WD-HandsOn_2/ | https://github.com/chubizy/WD-HandsOn_2 |
+| Seatwork 4 | https://chubizy.github.io/WD-SW4/ | https://github.com/chubizy/WD-SW4 |
+
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Deployment links and Repository links
+- Features, cards, and animations
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -119,4 +122,9 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Font awesome | Icon navigation | https://fontawesome.com/search |
+| Pinterest | Some background images | https://ph.pinterest.com/ |
+| w3school | Styling reference | https://www.w3schools.com/css/ |
+| Color picker | Getting rgb/rgba colors | https://imagecolorpicker.com/ |
+| Canva | Used as image manipulator | https://www.canva.com/ |
+| Pexel | Video stacks | https://www.pexels.com/search/videos/stack/ |
